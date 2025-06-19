@@ -3,9 +3,9 @@ server:
   name: "Default Application on GIT"
 
 database:
-  host: "localhost"
+  host: "localhost-git"
   port: 5432
-  name: "myapp"
+  name: "myapp-git"
 
 logging:
   level: "INFO"
