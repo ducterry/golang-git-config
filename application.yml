@@ -1,6 +1,6 @@
 server:
   port: 8080
-  name: "Default Application"
+  name: "Default Application on GIT"
 
 database:
   host: "localhost"
